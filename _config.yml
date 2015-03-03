@@ -3,19 +3,18 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "kevin's blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: kevinkang88@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/bg.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: "Kevin 'KWon' Kang"
+author: "Kevin 'KWon' Kang"
+author_image: "/assets/images/kevin.png"
 
 paginate:	5
 
@@ -24,12 +23,12 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  # - icon:	twitter
+  #   url:	https://twitter.com/dirkfabisch
+  #   desc: Follow me on twitter
+  #   share_url: http://twitter.com/share
+  #   share_title: ?text=
+  #   share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
