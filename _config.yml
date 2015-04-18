@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "email:"
 
 email: kevinkang88@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.png"
+logo: "/blog/assets/images/df_logo.png"
 # blog cover
-cover: "/assets/images/bg.jpg"
+cover: "/blog/assets/images/bg.jpg"
 
 name: "Kevin 'KWon' Kang"
 author: "Kevin 'KWon' Kang"
