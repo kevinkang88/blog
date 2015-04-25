@@ -9,6 +9,7 @@ tags: featured
 Hi! 
 
 Something about me:
+
 I'm a software engineer from Japan -> Korea -> LA who fell in love with problem solving aspect of coding last year. I love hiking, surfing, snowboarding, listening to music, travling, any new experiences, and my afternoon tea time while enjoying some League of Legend. 
 
 I have decided to give blogging one more try after failing to update regularly which ended up with one technical entry last year. LAME!
