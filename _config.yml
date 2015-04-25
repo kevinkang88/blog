@@ -19,7 +19,7 @@ author_image: "/assets/images/kevin.png"
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "/blog"
 
 # social icons and sharing options
 social:
