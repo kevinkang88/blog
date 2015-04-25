@@ -6,7 +6,7 @@ categories: misc
 tags: featured
 <!-- image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg -->
 ---
-Hi! 
+Hello World! 
 
 Something about me:
 
